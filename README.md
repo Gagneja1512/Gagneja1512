@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-gagneja-b727a0203/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityaarora1215@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Gagneja1512&label=PROFILE+VIEWS&color=555555&style=flat-square)
 
 </div>
 
