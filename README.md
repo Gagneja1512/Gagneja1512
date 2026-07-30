@@ -80,24 +80,6 @@ currently_exploring:
 
 </div>
 
-## `// selected work`
-
-### ✈️ Air India Maharaja Club
-
-- Developed member-ID validation and database-reconciliation APIs for reliable SSO authentication.
-- Reworked membership workflows to support standard and SSO corporate associations.
-- Preserved existing user journeys and dashboard-routing behavior across complex edge cases.
-
-[![View project](https://img.shields.io/badge/View_Project-↗-303030?style=flat-square)](https://www.1mg.com/information/maharaja-air-india)
-
-### ⌘ Personal Portfolio Platform
-
-- Responsive engineering portfolio built with React and JavaScript.
-- Includes an interactive browser terminal, command palette, accessible motion system, and local résumé delivery.
-
-[![Live project](https://img.shields.io/badge/Live_Project-↗-303030?style=flat-square)](https://aadityagagneja.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-↗-303030?style=flat-square&logo=github)](https://github.com/Gagneja1512)
-
 ## `// competitive programming`
 
 <div align="center">
